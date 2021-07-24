@@ -1,5 +1,5 @@
 # badge
 server for badges
-https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/sample.json
+[![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/Sample.json)](./sample)
 
-https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/compound.json
+[![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/doi_Prefix/doi_Suffix/Sample.json)](./compound) 
