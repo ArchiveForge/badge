@@ -20,5 +20,3 @@ Server for badges
 [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction.json)](./reaction) 
 [![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reaction2.json)](./reaction) 
 
-
-[![DOI](https://img.shields.io/endpoint?url=https://badge.archiveforge.org/chemistry/v0.1/reactionWithLines.json)](./reaction) 
